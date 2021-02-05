@@ -2,8 +2,8 @@
 
 Steps to run python script:
         
-       
-       
+       pip install progress
+      
        1. python wiki.py - To run in Interactive Mode
        2. python wiki.py query filename - to run in a Single Command
   
